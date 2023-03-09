@@ -15,4 +15,4 @@ These will include the CLASSES,STORAGE AND CONSOLE
 
 ## Authors :black_nib:
 * **Alexander David** <[TheEliteCode](https://github.com/TheEliteCode)>
-* **Mary Odedeyi** <[flourishing-designer.](https://github.com/flourishing-designer.)>
+* **Mary Odedeyi** <[flourishing-designer](https://github.com/flourishing-designer)>
